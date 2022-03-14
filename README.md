@@ -43,10 +43,10 @@ Version
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/Thifany-Nicastro/IgniteNode-ChapterII-Desafio01.git
+$ git clone https://github.com/wellisonla/RocketseatDesafio02.git
 
 # Entre na pasta
-$ cd IgniteNode-ChapterII-Desafio01
+$ cd RocketseatDesafio02
 
 # Instale as dependências
 $ yarn ou yarn install
