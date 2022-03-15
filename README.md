@@ -43,13 +43,13 @@ Version
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/wellisonla/RocketseatDesafio02.git
+$ git clone https://github.com/wellisonla/RocketseatDesafio02-Node.js.git
 
 # Entre na pasta
-$ cd RocketseatDesafio02
+$ cd RocketseatDesafio02-Node.js
 
 # Instale as dependências
-$ yarn ou yarn install
+$ yarn
 
 # Execute a aplicação em modo de desenvolvimento
 $ yarn dev
